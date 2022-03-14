@@ -593,7 +593,7 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.clearCacheWarning": "Make sure you want to clear cache and restart?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
-    "gui.gui.defaultProjectTitle": "OpenBlock Project",
+    "gui.gui.defaultProjectTitle": "HaniBlock Project",
     "gui.desktopMenuBar.about": "About",
     "gui.menuBar.privacyPolicy": "Privacy policy",
     "gui.menuBar.dataSettings": "Data settings"
